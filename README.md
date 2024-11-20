@@ -1,4 +1,8 @@
  # EX-2 CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
+ 
+ ### NAME:V.Prithviraj
+ ### REG NUMBER:212222100038
+
   ## AIM
        To Create an Account in AWS Set up a Root user and an IAM user.
 ## PROBLEM STATEMENT
@@ -29,8 +33,6 @@ Review and Create IAM User
 ![image](https://github.com/user-attachments/assets/fb76df48-3eef-4d78-99b6-96f1f2197cf7)
 
 
-### REG NUMBER:212222100038
-### NAME:V.Prithviraj
 
 ## RESULT:
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
